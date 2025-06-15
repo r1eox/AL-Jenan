@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Al-Jenan/static/css/main.6fdc86fa.css",
+    "main.js": "/Al-Jenan/static/js/main.7caf5f49.js",
+    "static/js/453.fbb6dff6.chunk.js": "/Al-Jenan/static/js/453.fbb6dff6.chunk.js",
+    "index.html": "/Al-Jenan/index.html",
+    "main.6fdc86fa.css.map": "/Al-Jenan/static/css/main.6fdc86fa.css.map",
+    "main.7caf5f49.js.map": "/Al-Jenan/static/js/main.7caf5f49.js.map",
+    "453.fbb6dff6.chunk.js.map": "/Al-Jenan/static/js/453.fbb6dff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fdc86fa.css",
+    "static/js/main.7caf5f49.js"
+  ]
+}
